@@ -1,6 +1,6 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Tharushika W.A.M.</h1>
-<h3 align="center">A passionate software engineer from SriLanka</h3>
+<h3 align="center">A passionate software and frontend engineer from SriLanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it22914200&label=Profile%20views&color=0e75b6&style=flat" alt="it22914200" /> </p>
 

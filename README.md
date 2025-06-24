@@ -1,19 +1,17 @@
 
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hello 👋, I'm Tharushika W.A.M.</h1>
-<h3 align="center">A passionate Frontend developer from SriLanka</h3>
+<h3 align="center">A passionate Web developer from SriLanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it22914200&label=Profile%20views&color=0e75b6&style=flat" alt="it22914200" /> </p>
 
 <table align="center">                 
 <tr border="none">
 <td width="50%" align="left">  
-  
-- 🔭 I’m currently working on [Photography](https://github.com/IT22914200/Photography.git)
 
 - 🌱 I’m currently learning **PowerBI , SpringBoot**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **mihiritharushika030@gmail.com**
 

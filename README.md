@@ -29,15 +29,6 @@
 </tr>
 </table>
 
-
-<div align="center">
-  <h2>My Contribbutors </h2>
-  <br>
-  <img alt="snake eating my contributors" src="https://raw.githubusercontent.com/it22914200/it22914200/output/github-contribution-gird-snake.svg"/>
-
-  <br/>
-  </div>
-
 <h3 align="center">My Statistics:</h3>
 <p align="center">
 <table align="center">

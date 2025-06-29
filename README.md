@@ -9,7 +9,7 @@
 <tr border="none">
 <td width="50%" align="left">  
 
-- 🌱 I’m currently learning **PowerBI , SpringBoot**
+- 🌱 I’m currently learning **PowerBI , SpringBoot, MERN**
 
 - 💬 Ask me about **JavaScript**
 

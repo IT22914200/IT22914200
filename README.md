@@ -41,7 +41,16 @@
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=it22914200&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
-  <h3 align="left">Languages and Tools:</h3>
+   </td>
+</tr>
+</table>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/http://linkedin.com/in/mihiri-tharushika-8b266a322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/mihiri-tharushika-8b266a322" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
 <p <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -87,13 +96,3 @@
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="50" height="50"/>
   </a>
 </p>   
-
-  
-  </td>
-</tr>
-</table>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/http://linkedin.com/in/mihiri-tharushika-8b266a322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/mihiri-tharushika-8b266a322" height="30" width="40" /></a>
-</p>
